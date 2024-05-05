@@ -1,0 +1,9 @@
+{
+    "appId": "application-1-vtfkyys",
+    "appUrl": "https://services.cloud.mongodb.com/groups/65d1f537c5235c503c0f79b6/apps/6637aaa8c134012507513ac4",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://ap-south-1.aws.services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://ap-south-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/65d1f537c5235c503c0f79b6/explorer/AtlasCluster/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
